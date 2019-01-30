@@ -4,15 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
-<<<<<<< HEAD
 
-<<<<<<< HEAD
-helyi valtozas
-
-
-
-=======
->>>>>>> a60d009742417b602aacc610233fd08b42efdb8f
 namespace XmlAutomation
 {
     public enum XPath
