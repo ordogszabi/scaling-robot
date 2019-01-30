@@ -5,11 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-<<<<<<< HEAD
-helyi valtozas
-=======
+
 remote change
->>>>>>> 8cd600cf108b07202b9cfebcdba878a19cd41393
 
 namespace XmlAutomation
 {
