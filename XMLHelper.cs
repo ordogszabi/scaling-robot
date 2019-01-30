@@ -196,7 +196,7 @@ namespace XmlAutomation
             return xpathString;
         }
 
-        //internal static string CreateXpath(string xpath)
+        //internal static string CreateXpath(string xpath) test
         //{
         //    string xpathString = "";
         //    switch (xpath)
